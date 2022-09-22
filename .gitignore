@@ -1,0 +1,6 @@
+*.iml
+*.xml
+out/
+.idea/
+test/
+lib/
